@@ -65,12 +65,3 @@ I'm a Web3 developer focused on building decentralized infrastructure and scalab
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=2NJAYY&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=2NJAYY&theme=dark&hide_border=false)
-
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=2NJAYY&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
